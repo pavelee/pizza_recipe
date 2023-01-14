@@ -79,6 +79,5 @@
 - Dodajemy przyprawy
 - Opcjonalnie! Posypujemy pizze startym parmezanem
 - Wrzucamy ciasto na papier i tacę
- - Tutaj ewentualnie bez papieru, jeśli pieczemy na kamieniu
 - Pieczemy w 220 stopniach przez 15 minut
 - Jemy!
