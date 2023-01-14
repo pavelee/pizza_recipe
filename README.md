@@ -45,4 +45,14 @@
   - Do miski wsypujemy mąkę
   - Dodajemy sól i mieszkamy
     - Istotne jest aby wymieszać mąke z solą po wsypaniu (równimiernie rozłożenie)
-  - adas
+  - Dodajemy oliwe z oliwek, wystarczy 5-6 łyżek
+  - Mieszamy zawartość łyżką
+  - Dodajemy wcześniej przygotowane drożdze
+  - Mieszamy zawartość łyżką
+- Ugniatanie ciasta
+  - Rozpoczynamy ugniatanie ciasta ręką
+  - Ugniatamy ciasto aż do uzyskania lekko lepkiej kulki ciasta
+  - Uwaga! Możemy mieć sytuacje gdzie brakuje nam balansu mąka / woda
+    - W przypadku kiedy ciasto jest zbyt suche (rozpada się) to dolewamy MALUTKĄ ilość wody (krokowo), powtarzamy tak długo aż problem zninkie
+    - W przypadku kiedy ciasto jest zbyt mokre (klucha) to dodajemy MALUTKĄ ilość mąki (korkowo), powtarzamy tak długo aż problem zniknie
+- 
