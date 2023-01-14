@@ -24,7 +24,7 @@
 - Sos do pizzy
  - Polecam MUTTI PIZZA SAUCE (dostępne w biedronce)
 - Mozarella - 1 kulka
- - Tutaj można jak najbardziej zwiększyć ilość
+  - Tutaj można jak najbardziej zwiększyć ilość
 - Składniki na pizze (dowolność)
  - Tutaj w zależności od Twoich osobistych planów
 - Przyprawy do pizzy
