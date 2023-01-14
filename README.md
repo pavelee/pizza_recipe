@@ -26,7 +26,7 @@
 - Mozarella - 1 kulka
   - Tutaj można jak najbardziej zwiększyć ilość
 - Składniki na pizze (dowolność)
- - Tutaj w zależności od Twoich osobistych planów
+  - Tutaj w zależności od Twoich osobistych planów
 - Przyprawy do pizzy
 
 ## Opcjonalne składniki
