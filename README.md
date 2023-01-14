@@ -25,6 +25,9 @@
  - Polecam MUTTI PIZZA SAUCE (dostępne w biedronce)
 - Mozarella - 1 kulka
  - Tutaj można jak najbardziej zwiększyć ilość
+- Składniki na pizze (dowolność)
+ - Tutaj w zależności od Twoich osobistych planów
+- Przyprawy do pizzy
 
 ## Opcjonalne składniki
 
@@ -63,4 +66,18 @@
   - Z powrotem wrzucamy do miski i przykrywamy miskę szmatką
 - Czekamy parę godzin aż ciasto wyrośnie
   - Osobiście przygotowuje ciasto rano, tak że popołudniu jest gotowe do pieczenia
-
+- Przygotowanie składników
+- Rozwałkowanie ciasta
+ - Wałek lekko moczymy w oliwie z oliwek
+   - To powoduje że ciasto będzie się kleić do powierzchni, co ułatwi rozwałkowanie
+ - Opcjonwalnie! optaczamy ciasto w kaszy mannej
+ - Rozwałukujemy do docelowej wielkości
+  - Tutaj istotne jest zostawić grubsze brzegi a cienszy środek!
+- Smarujemy ciasto sosem
+- Nakładamy składniki
+  - Osobiście preferuje zaczynać od mozarelli
+- Dodajemy przyprawy
+- Opcjonalnie! Posypujemy pizze startym parmezanem
+- Wrzucamy ciasto na papier i tacę
+ - Tutaj ewentualnie bez papieru, jeśli pieczemy na kamieniu
+- 
