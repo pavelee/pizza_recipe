@@ -68,11 +68,11 @@
   - Osobiście przygotowuje ciasto rano, tak że popołudniu jest gotowe do pieczenia
 - Przygotowanie składników
 - Rozwałkowanie ciasta
- - Wałek lekko moczymy w oliwie z oliwek
-   - To powoduje że ciasto będzie się kleić do powierzchni, co ułatwi rozwałkowanie
- - Opcjonwalnie! optaczamy ciasto w kaszy mannej
- - Rozwałukujemy do docelowej wielkości
-  - Tutaj istotne jest zostawić grubsze brzegi a cienszy środek!
+  - Wałek lekko moczymy w oliwie z oliwek
+    - To powoduje że ciasto będzie się kleić do powierzchni, co ułatwi rozwałkowanie
+  - Opcjonwalnie! optaczamy ciasto w kaszy mannej
+  - Rozwałukujemy do docelowej wielkości
+    - Tutaj istotne jest zostawić grubsze brzegi a cienszy środek!
 - Smarujemy ciasto sosem
 - Nakładamy składniki
   - Osobiście preferuje zaczynać od mozarelli
