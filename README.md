@@ -1,5 +1,13 @@
 # Przepis na pizze pawełka
 
+## Asortyment
+
+- Miska do wyrobienia ciasta
+- wałek
+- papier do pieczenia (z silikonem)
+- taca lub kamień do pieczenia
+- ręce do ciasta
+
 ## Składniki
 
 - Ciepła woda - 100ml
@@ -29,4 +37,5 @@
 - Przygotowanie miski z ciastem
   - Do miski wsypujemy mąkę
   - Dodajemy sól i mieszkamy
-    - Istotne jest
+    - Istotne jest aby wymieszać mąke z solą po wsypaniu (równimiernie rozłożenie)
+  - adas
