@@ -55,4 +55,12 @@
   - Uwaga! Możemy mieć sytuacje gdzie brakuje nam balansu mąka / woda
     - W przypadku kiedy ciasto jest zbyt suche (rozpada się) to dolewamy MALUTKĄ ilość wody (krokowo), powtarzamy tak długo aż problem zninkie
     - W przypadku kiedy ciasto jest zbyt mokre (klucha) to dodajemy MALUTKĄ ilość mąki (korkowo), powtarzamy tak długo aż problem zniknie
-- 
+  - Proces ugniatania powinnien trwać 10-15 minut
+- Dojżewanie i wyrastanie ciasta
+  - Ugniecione ciasto wyjmujemy z miski
+  - Ciasto ocieramy mała ilością mąki
+    - To spowoduje że nie powstanie skorupa na cieście podczas procesu wyrastania
+  - Z powrotem wrzucamy do miski i przykrywamy miskę szmatką
+- Czekamy parę godzin aż ciasto wyrośnie
+  - Osobiście przygotowuje ciasto rano, tak że popołudniu jest gotowe do pieczenia
+
