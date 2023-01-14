@@ -5,6 +5,7 @@
 - Miska do wyrobienia ciasta
 - wałek
 - papier do pieczenia (z silikonem)
+- piec
 - taca lub kamień do pieczenia
 - ręce do ciasta
 
@@ -24,6 +25,12 @@
  - Polecam MUTTI PIZZA SAUCE (dostępne w biedronce)
 - Mozarella - 1 kulka
  - Tutaj można jak najbardziej zwiększyć ilość
+
+## Opcjonalne składniki
+
+- Kasza manna
+  - zwiększa kruchość ciasta
+- starty parmezan
 
 ## Przepis
 
